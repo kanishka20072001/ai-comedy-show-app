@@ -1,0 +1,14 @@
+{
+  "name": "ai-comedy-backend",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.1",
+    "mongoose": "^6.10.2",
+    "openai": "^3.0.1"
+  }
+}
