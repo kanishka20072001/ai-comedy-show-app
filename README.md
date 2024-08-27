@@ -7,6 +7,4 @@ This repository contains the code for the AI Comedy Show application, which cons
 - **frontend/**: Contains the React frontend application.
 - **backend/**: Contains the Express backend server and API.
 
-## Getting Started
 
-1.
